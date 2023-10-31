@@ -16,6 +16,14 @@ echo 'alias gs="git status"' >> $LAZYGITCOMMIT_FILE
 
 That's it!
 
+## Fast way to install
+
+Run
+
+```bash
+curl https://raw.githubusercontent.com/ivan-developer-01/lazy-gitcommit/main/install.sh | sh
+```
+
 ## Help on commands
 
 - `gc` - Add the current directory to Git and commit changes
